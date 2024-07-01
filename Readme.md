@@ -1,6 +1,6 @@
 ## Deputados Federais no Brasil
 
-![Status](https://img.shields.io/badge/Finished-00b300)
+Status: ![Status](https://img.shields.io/badge/Finished-00b300)
 
 Este repositório contém um projeto de análise de dados, desenvolvido na disciplina de Tópicos Avançados, com objetivo de explorar a ferramenta Power BI, da Google.
 
